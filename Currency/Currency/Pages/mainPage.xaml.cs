@@ -1,17 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
+﻿using Currency.Class.Managment;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace Currency.Pages
 {
@@ -23,6 +11,8 @@ namespace Currency.Pages
         public mainPage()
         {
             InitializeComponent();
+            btnCurrencyName.Click += (sender, e) => Manager.MainFrame.Navigate(new currencyNamePage());
+            btnCurrencyCode.Click += (sender, e) => Manager.MainFrame.Navigate(new currencyCodePage());
         }
     }
 }

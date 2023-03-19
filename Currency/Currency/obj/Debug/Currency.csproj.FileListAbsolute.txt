@@ -17,3 +17,10 @@ C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\obj\Debug\
 C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
 C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\obj\Debug\Currency.exe
 C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\obj\Debug\Pages\currencyCodePage.g.cs
+C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\obj\Debug\Pages\currencyNamePage.g.cs
+C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\obj\Debug\Pages\currencyCodePage.baml
+C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\obj\Debug\Pages\currencyNamePage.baml
+C:\Users\zenit\source\Repos\GetCurrentValueCurrency\Currency\Currency\obj\Debug\Currency.csproj.CopyComplete

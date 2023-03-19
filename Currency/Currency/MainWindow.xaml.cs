@@ -1,4 +1,4 @@
-﻿using Currency.Class;
+﻿using Currency.Class.Managment;
 using Currency.Pages;
 using System.Windows;
 using System.Windows.Navigation;

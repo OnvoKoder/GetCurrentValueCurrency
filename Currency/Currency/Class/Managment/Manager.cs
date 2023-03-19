@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace Currency.Class
+namespace Currency.Class.Managment
 {
     class Manager
     {

@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Currency"
         mc:Ignorable="d"
-        Title="Курс валют" MinHeight="400" MaxHeight="400" MinWidth="400" MaxWidth="400">
+        Title="Курс валют" MinHeight="600" MaxHeight="600" MinWidth="400" MaxWidth="400">
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="0.15*"/>
+            <RowDefinition Height="0.1*"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="0.15*"/>
+            <RowDefinition Height="0.1*"/>
         </Grid.RowDefinitions>
         <Grid Grid.Row="0" Style="{StaticResource HeaderFlooter}" Panel.ZIndex="-1"/>
         <Grid Grid.Row="2" Style="{StaticResource HeaderFlooter}" Panel.ZIndex="-1"/>
